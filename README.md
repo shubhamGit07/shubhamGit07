@@ -66,13 +66,13 @@ I enjoy building practical software projects, exploring new technologies, and im
 
 ## 💡 Coding Profiles
 
-- **GitHub:** [github.com/shubhamGit07]https://github.com/shubhamGit07)
-- **LeetCode:** [Add your LeetCode profile URL here](https://leetcode.com/u/Shubham_1238/)
+- **GitHub:** [https://github.com/shubhamGit07]
+- **LeetCode:** [https://leetcode.com/u/Shubham_1238/]
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [shubhamGit07](https://github.com/shubhamGit07)
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/shubham-kumar-mishra-9181b9301/)
+- **GitHub:** [https://github.com/shubhamGit07]
+- **LinkedIn:** [https://www.linkedin.com/in/shubham-kumar-mishra-9181b9301/]
 
 ---
 
