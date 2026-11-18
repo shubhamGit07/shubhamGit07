@@ -6,7 +6,7 @@
 
 I enjoy building practical software projects, exploring new technologies, and improving my problem-solving skills through Data Structures & Algorithms.
 
-[![GitHub followers](https://img.shields.io/github/followers/shubhamGit07?style=for-the-badge&logo=github)](https://github.com/shubhamGit07)
+
 [![GitHub stars](https://img.shields.io/github/stars/shubhamGit07?style=for-the-badge&logo=github)](https://github.com/shubhamGit07?tab=repositories)
 
 </div>
